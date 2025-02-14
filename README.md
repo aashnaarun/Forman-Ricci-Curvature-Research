@@ -11,10 +11,10 @@ My task breakdown is as follows:
 3. Annotating the calculated curvature values on the graph for demonstration.
 
 ## Input Graph:
-![Graph Input](images/InputGraph.png)
+![Graph Input](images/UpdatedInputGraph.png)
 
 ## Output Graph:
-![Graph Output](images/OutputGraph.png)
+![Graph Output](images/UpdatedOutputGraph.png)
 
 ## Learnings from the task
 
