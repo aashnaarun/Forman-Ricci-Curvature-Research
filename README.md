@@ -10,7 +10,9 @@ Using the **NetworkX** library in Python, the goal is to construct a directed gr
 
 ## Output Graphs
 
-![Graph with Computed Forman-Ricci Curvature](placeholder_for_graph_image)
+![Graph Input](images/InputGraph.png)
+
+![Graph Output](images/OutputGraph.png)
 
 ## Key Learnings
 
