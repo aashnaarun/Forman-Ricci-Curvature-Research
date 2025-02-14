@@ -10,7 +10,7 @@ My task breakdown is as follows:
 2. Computing the **Forman-Ricci curvature** for each edge present in the graph.
 3. Annotating the calculated curvature values on the graph for demonstration.
 
-## Input Graph
+## Input Graph:
 ![Graph Input](images/InputGraph.png)
 
 ## Output Graph:
