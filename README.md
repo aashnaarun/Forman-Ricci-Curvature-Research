@@ -8,10 +8,10 @@ Using the **NetworkX** library in Python, the goal is to construct a directed gr
 2. Computing the **Forman-Ricci curvature** for each edge in the graph.
 3. Annotating the computed curvature values on the graph for visualization.
 
-## Output Graphs
-
+## Input Graph
 ![Graph Input](images/InputGraph.png)
 
+## Output Graph
 ![Graph Output](images/OutputGraph.png)
 
 ## Key Learnings
