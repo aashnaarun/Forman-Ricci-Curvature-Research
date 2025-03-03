@@ -14,7 +14,7 @@ My task breakdown is as follows:
 ![Graph Input](images/UpdatedInputGraph.png)
 
 ## Output Graph:
-![Graph Output](images/UpdatedOutputGraph.png)
+![Graph Output](images/corrected_output.png)
 
 ## Learnings from the task
 
